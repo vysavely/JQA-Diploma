@@ -1,6 +1,8 @@
 ## Дипломный проект. Автоматизация тестирования приложения "Путешествие дня"
 
 План автоматизации тестирования - https://github.com/vysavely/JQA-Diploma/blob/main/Plan.md
+Отчёт по автоматизации тестирования - https://github.com/vysavely/JQA-Diploma/blob/main/Report.md
+Итоговый отчёт по проекту - https://github.com/vysavely/JQA-Diploma/blob/main/Summary.md
 
 ## Запуск автотестов
 
