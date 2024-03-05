@@ -35,15 +35,15 @@ public class DataHelper {
     }
 
     public static String getRandomShorterCardNumber() {
-        int shortNumber = faker.random().nextInt(16);
+        int shortNumber = faker.random().nextInt(14);
         return faker.number().digits(shortNumber);
     }
 
-    public static String getRandomMonth(int month) {
+    public static String getSpecificMonth(int month) {
         return LocalDate.now().plusMonths(month).format(DateTimeFormatter.ofPattern("MM"));
     }
 
-    public static String getRandomYear(int year) {
+    public static String getSpecificYear(int year) {
         return LocalDate.now().plusYears(year).format(DateTimeFormatter.ofPattern("yy"));
     }
 
@@ -69,8 +69,8 @@ public class DataHelper {
         return fakeValuesService.letterify("??????????????????????????????????????????????????????????????????????????????????????????????????????");
     }
 
-    public static String getNumberCVV(int code) {
-        return faker.number().digits(code);
+    public static String getNumberCVV(int codeLength) {
+        return faker.number().digits(codeLength);
     }
 
     public static String getZeroCVV() {

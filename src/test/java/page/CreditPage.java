@@ -63,12 +63,4 @@ public class CreditPage {
     public void errorCardTermValidity() {
         errorCardTermValidity.shouldBe(visible);
     }
-
-//    public void cleanFields() {
-//        cardNumberField.doubleClick().sendKeys(Keys.BACK_SPACE);
-//        monthField.doubleClick().sendKeys(Keys.BACK_SPACE);
-//        yearField.doubleClick().sendKeys(Keys.BACK_SPACE);
-//        ownerField.doubleClick().sendKeys(Keys.BACK_SPACE);
-//        codeField.doubleClick().sendKeys(Keys.BACK_SPACE);
-//    }
 }

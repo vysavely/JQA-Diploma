@@ -13,7 +13,8 @@ public class SQLHelper {
     private static final String pass = System.getProperty("db.password");
     private static QueryRunner runner = new QueryRunner();
 
-    private SQLHelper() {}
+    private SQLHelper() {
+    }
 
     @SneakyThrows
     private static Connection getConnection() {

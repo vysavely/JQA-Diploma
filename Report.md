@@ -13,11 +13,11 @@
 
 * #### MySQL:
 
-![image](https://github.com/vysavely/JQA-Diploma/assets/130082977/a8168063-8bf7-4f6a-bb10-9262e8ae4f20)
+![image](https://github.com/vysavely/JQA-Diploma/assets/130082977/d89d4a7b-3ce7-4a7b-bd28-0c0e6e94f3c2)
 
 * #### PostgreSQL:
 
-![image](https://github.com/vysavely/JQA-Diploma/assets/130082977/6da7bd06-b00d-4edb-af48-3f709ac1cebd)
+![image](https://github.com/vysavely/JQA-Diploma/assets/130082977/37b61a93-24ba-43e0-9b51-2e17e25937a4)
 
 ### Общие рекомендации
 * Устранить баги, указанные в issues
